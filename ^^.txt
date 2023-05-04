@@ -1,0 +1,11 @@
+Administrator@DESKTOP-HUJUVSS MINGW64 /d/iclass0419/sample
+$ git init
+Initialized empty Git repository in D:/iclass0419/sample/.git/
+
+Administrator@DESKTOP-HUJUVSS MINGW64 /d/iclass0419/sample (master)
+$ git config --global user.email
+rlatlgus0810@icloud.com
+
+Administrator@DESKTOP-HUJUVSS MINGW64 /d/iclass0419/sample (master)
+$ git config --global user.name
+rlarudals0810
